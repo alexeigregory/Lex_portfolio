@@ -1,12 +1,14 @@
-# Hi There ! 
+# Welcome to my portfolio ! 
 
 My name is Alexei and welcome to my portfolio page here is a couple of things about me. 
-> I am a passionate cybersecurity major but love dabbiling in data science as this page will show. 
-> I am starting my journey of "learning in public" because I am big adovcate of learning with your community and getting feedback from you commmunity. 
-> My Intrests: Music, Defi, Crypto, Cooking 🎸👾💰🍳
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- I am a passionate cybersecurity major but love dabbiling in data science as this page will show. 
+- I am starting my journey of "learning in public" because I am big adovcate of learning with your community and getting feedback from you commmunity. 
+- My Interests: Music, Defi, Crypto, Cooking 🎸👾💰🍳
 
+*What am I currently learning now ?* 
+
+<kbd>SQL</kbd> <kbd>Python</kbd> <kbd>Threat analysis</kbd> <kbd>Security+</kbd> <kbd>ITIL V4</kbd>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
