@@ -1,5 +1,7 @@
 # Welcome to my portfolio ! 
 
+
+
 My name is Alexei and welcome to my portfolio page here is a couple of things about me. 
 
 - I am a passionate cybersecurity major but love dabbiling in data science as this page will show. 
@@ -31,7 +33,7 @@ This project aims to display visualizations using an atoti dashboard for burrito
  
 
 
-```markdown
+
 More project details to come. 
 
 ** Project still under construction**
