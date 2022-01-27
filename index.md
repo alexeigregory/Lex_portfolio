@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+# Hi There ! 
 
-You can use the [editor on GitHub](https://github.com/alexeigregory/Lex_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Alexei and welcome to my portfolio page here is a couple of things about me. 
+> I am a passionate cybersecurity major but love dabbiling in data science as this page will show. 
+> I am starting my journey of "learning in public" because I am big adovcate of learning with your community and getting feedback from you commmunity. 
+> My Intrests: Music, Defi, Crypto, Cooking 🎸👾💰🍳
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
